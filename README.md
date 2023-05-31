@@ -29,3 +29,10 @@
 * THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 * WHEN I view the footer
 * THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
+# Deployed Link
+https://minthare.github.io/prorfolio/
+
+![Screenshot 2023-05-30 205120](https://github.com/Minthare/prorfolio/assets/119153351/5ab2e148-b115-41f1-916a-1006ee996d35)
+
+
+![Screenshot 2023-05-30 205130](https://github.com/Minthare/prorfolio/assets/119153351/3133f891-8e65-444e-97f1-798ded376663)
