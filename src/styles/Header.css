@@ -1,0 +1,26 @@
+/* Header.css */
+.header {
+    background-color: DodgerBlue;
+    padding: 10px;
+  }
+  
+  .navigation {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .navigation a {
+    margin-right: 1px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .navigation a.active {
+    color: black;
+  }
+  
+  h3{
+    color:white;
+  }
