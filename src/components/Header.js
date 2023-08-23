@@ -8,7 +8,7 @@ const Header = ({ currentSection, setCurrentSection }) => {
       <div className="navigation">
         <h3>Joshua Pierre</h3>
         <a
-          [
+          
           className={currentSection === 'About' ? 'active' : ''}
           onClick={() => setCurrentSection('About')}
         >
